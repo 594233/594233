@@ -7,4 +7,4 @@ qq:692810802
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=594233)
 
 
-<img src="https://img.shields.io/badge/-Python-red?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-pycahrm-red?style=flat-square&logo=Pycharm" /> <img src="Pictures/-慢慢-white.svg">
+<img src="https://img.shields.io/badge/-Python-red?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-pycahrm-red?style=flat-square&logo=Pycharm" /> <img src="Pictures/-慢慢-red.svg">
