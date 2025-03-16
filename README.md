@@ -1,8 +1,10 @@
 ### Hi there 👋
 ## This is 594233
-qq:692810802
+
 ![header](https://capsule-render.vercel.app/api?type=Speech&color=0:CB715F,100:8F90A8&height=300&section=header&text=Another%20beautiful%20day!&fontColor=FFFFFF&fontSize=70&animation=fadeIn)
-<!--https://github.com/kyechan99/capsule-render/blob/master/docs/README_zh-cn.md#waving--->
+
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=594233.594233)-->
+qq:692810802
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=594233)
 
@@ -16,3 +18,7 @@ qq:692810802
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/594233/594233/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/594233/594233/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE3BA,100:8DCBF1&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Have%20a%20great%20day😊&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
