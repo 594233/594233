@@ -20,7 +20,7 @@ qq:692810802
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=594233&theme=vue&bg_color=8F90A8&color=FFFFFF&line=CB715F)](https://github.com/594233/github-readme-activity-graph)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=594233&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!--img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=594233&theme=transparent&hide_border=true&layout=compact&langs_count=22" /-->
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,js,pycharm,anaconda,vscode)](https://skillicons.dev)
 <picture>
