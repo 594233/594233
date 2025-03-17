@@ -5,6 +5,7 @@
 
 <!-- https://github.com/kyechan99/capsule-render 开局动图-->
 ![header](https://capsule-render.vercel.app/api?type=Speech&color=0:CB715F,100:8F90A8&height=300&section=header&text=Another%20beautiful%20day!&fontColor=FFFFFF&fontSize=70&animation=fadeIn)
+![Metrics](/github-metrics.svg)
 
 <!--访客记录![visitors](https://visitor-badge.glitch.me/badge?page_id=594233.594233)-->
 
