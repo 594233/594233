@@ -12,7 +12,9 @@
 <!--访客记录![visitors](https://visitor-badge.glitch.me/badge?page_id=594233.594233)-->
 </div>
 
-
+___
+**My Contribution**  
+  
 
 <div>
 <!-- https://github.com/anuraghazra/github-readme-stats 语言-->
@@ -23,8 +25,16 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=594233&theme=vue&bg_color=8F90A8&color=FFFFFF&line=CB715F)](https://github.com/594233/github-readme-activity-graph)
 
 <!--img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=594233&theme=transparent&hide_border=true&layout=compact&langs_count=22" /-->
-
+___
+**My Skills**  
+  
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,js,pycharm,anaconda,vscode)](https://skillicons.dev)
+___
+**learning list**
+- [ ] Scrapy
+- [ ] Docker
+- [ ] Reverse Engineerin
+- [ ] .....
 ___
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/594233/594233/output/github-contribution-grid-snake-dark.svg">
