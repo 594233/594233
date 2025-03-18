@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=40&pause=2000&color=CB715F&vCenter=true&random=true&width=600&height=100&lines=Stay+curious+about+the+world.)](https://git.io/typing-svg)
-### Hi there 👋
+# Hi there 👋
 ## This is 594233 <img src="Pictures/-慢慢-red.svg">
+### QQ:`692810802`
 
 
 <!-- https://github.com/kyechan99/capsule-render 开局动图-->
 ![header](https://capsule-render.vercel.app/api?type=Speech&color=0:CB715F,100:8F90A8&height=300&section=header&text=Another%20beautiful%20day!&fontColor=FFFFFF&fontSize=70&animation=fadeIn)
-![Metrics](/github-metrics.svg)
+<div align="center">
+<img src='/github-metrics.svg' />
 
 <!--访客记录![visitors](https://visitor-badge.glitch.me/badge?page_id=594233.594233)-->
+</div>
 
-qq:692810802
 
 
 <div>
@@ -24,6 +26,7 @@ qq:692810802
 <!--img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=594233&theme=transparent&hide_border=true&layout=compact&langs_count=22" /-->
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,js,pycharm,anaconda,vscode)](https://skillicons.dev)
+___
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/594233/594233/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/594233/594233/output/github-contribution-grid-snake.svg">
