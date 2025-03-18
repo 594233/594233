@@ -14,12 +14,12 @@
 
 
 
-<div>
+<center class="half">
 <!-- https://github.com/anuraghazra/github-readme-stats 语言-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=594233" />
 <img src="https://github-readme-stats.vercel.app/api?username=594233&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!--<img src="https://img.shields.io/badge/-Python-red?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-pycahrm-red?style=flat-square&logo=Pycharm" />-->
-</div>
+</center>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=594233&theme=vue&bg_color=8F90A8&color=FFFFFF&line=CB715F)](https://github.com/594233/github-readme-activity-graph)
 
