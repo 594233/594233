@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=40&pause=2000&color=CB715F&vCenter=true&random=true&width=600&height=100&lines=Stay+curious+about+the+world.)](https://git.io/typing-svg)
 # Hi there 👋
 ## This is 594233 <img src="Pictures/-慢慢-red.svg">
-### QQ:`692810802`
+### A master's student in chemistry from China who enjoys learning technical skills. 
+**QQ:`692810802`**
 
 
 <!-- https://github.com/kyechan99/capsule-render 开局动图-->
@@ -47,7 +48,7 @@ ___
 - [ ] .....
 -->
 ___
-
+**Active Time**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/594233/594233/output/github-contribution-grid-snake-dark.svg">
