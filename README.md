@@ -30,12 +30,25 @@ ___
   
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,js,pycharm,anaconda,vscode)](https://skillicons.dev)
 ___
-**learning list**
+**Learning Plan**
+| **learning List**    | **Reading List-2025** |
+| ----------- | ----------- |
+|<ul><li>[ ] Scrapy</li></ul>     | <ul><li>[x] 蛤蟆先生去看心理医生</li></ul>     |
+|<ul><li>[ ] Docker</li></ul>      | <ul><li>[x] 被讨厌的勇气</li></ul>      |
+|<ul><li>[ ] Reverse Engineering</li></ul>   | <ul><li>[x] 关系的重建</li></ul>       |
+|<ul><li>[ ] .....</li></ul>   |<ul><li>[ ] 思考，快与慢</li></ul>   |
+|  <ul><li>[ ] .....</li></ul>   | <ul><li>[ ] 当代占星研究</li></ul>    |
+
+<!--
+**learning List**
 - [ ] Scrapy
 - [ ] Docker
-- [ ] Reverse Engineerin
+- [ ] Reverse Engineering
 - [ ] .....
+-->
 ___
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/594233/594233/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/594233/594233/output/github-contribution-grid-snake.svg">
